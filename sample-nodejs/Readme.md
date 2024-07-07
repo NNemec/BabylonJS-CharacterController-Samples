@@ -2,10 +2,9 @@
 A sample application to show how to use CharacterController from a nodejs application.
 
 ## Run
-Run an http server  and open index.html in browser.
+run "npm start"
 
 ## Build
-cd to root folder.  
 run "npm install" to install everything.  
 run "npm run build" to build the application.    
   
